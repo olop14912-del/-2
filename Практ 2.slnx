@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibMas/LibMas.csproj" />
+  <Project Path="Lib_13/Lib_13.csproj" />
+  <Project Path="VisualArray/VisualArray.csproj" Id="b745574e-b71a-4f2c-b0d7-ce9ebb987698" />
+  <Project Path="Практ 2/Практ 2.csproj" />
+</Solution>
